@@ -23,5 +23,5 @@ dotnet new list
 
 [Microsoft's powerful framework on open source's most popular OS](https://dzone.com/refcardz/net-on-linux)
 
-
+[.NET default templates for dotnet new](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new-sdk-templates)
 
